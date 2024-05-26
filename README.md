@@ -1,6 +1,6 @@
 # Air Quality Index in Jakarta (2010-2021)
 
-![Air Quality](https://images.unsplash.com/photo-1569535002174-29e0d8a1a3b9)
+<!-- ![Air Quality](https://images.unsplash.com/photo-1569535002174-29e0d8a1a3b9) -->
 
 This repository contains a comprehensive dataset on the Air Quality Index (AQI) in Jakarta from 2010 to 2021. The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/senadu34/air-quality-index-in-jakarta-2010-2021/code).
 
