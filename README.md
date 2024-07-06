@@ -9,11 +9,6 @@ This repository contains a comprehensive dataset on the Air Quality Index (AQI) 
 - [Dataset Overview](#dataset-overview)
 - [Data Dictionary](#data-dictionary)
 - [Usage](#usage)
-- [Installation](#installation)
-- [Examples](#examples)
-- [License](#license)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
 
 ## Dataset Overview
 
